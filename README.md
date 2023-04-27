@@ -5,14 +5,17 @@
    </h1>
 </div>
 
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4d4d4d?style=flat&logo=javascript)<br/>
+
 - [Longest Work Slot <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/LongestWorkSlot)
 - [Closest to Zero <sup>CoderPad</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/ClosestToZero)
+- [Check Digit <sup>TestDome</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/CheckDigit)
+- [Fizz Buzz <sup>CoderPad</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/FizzBuzz)
 
 <br/>
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-4d4d4d?style=flat&logo=Node.js) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-4d4d4d?style=flat&logo=Node.js)
+
 - [Champions League Teams <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/ChampionsLeagueTeams)
 - [Country Codes <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/CountryCodes)
 
@@ -22,9 +25,7 @@
 
 <br/>
 
-![React](https://img.shields.io/badge/-React-4d4d4d?style=flat&logo=react) 
+![React](https://img.shields.io/badge/-React-4d4d4d?style=flat&logo=react)
+
 - [Slideshow App <sup>HackerRank</sup>](https://github.com/DianaCCM/React-Slideshow)
 - [Sorting Articles <sup>HackerRank</sup>](https://github.com/DianaCCM/React-SortingArticles)
-
-
-
