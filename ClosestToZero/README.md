@@ -1,6 +1,6 @@
 # Analyze records of temperature to find the closest to zero.
 
-#### CoderPad
+##### ~ CoderPad ~
 
 Implement the function closestToZero to return the temperature closer to zero which belongs to the array ts.
 
