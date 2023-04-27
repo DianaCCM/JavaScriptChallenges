@@ -1,6 +1,6 @@
 # Check Digit
 
-#### ~ TestDome ~
+##### ~ TestDome ~
 
 Your company assigns each customer a membership ID, and you are implementing a check digit for those IDs.
 
