@@ -23,8 +23,8 @@
 <br/>
 
 ![React](https://img.shields.io/badge/-React-4d4d4d?style=flat&logo=react) 
-- [Slideshow App](https://github.com/DianaCCM)
-- [Sorting Articles](https://github.com/DianaCCM)
+- [Slideshow App <sup>HackerRank</sup>](https://github.com/DianaCCM/React-Slideshow)
+- [Sorting Articles <sup>HackerRank</sup>](https://github.com/DianaCCM/React-SortingArticles)
 
 
 
