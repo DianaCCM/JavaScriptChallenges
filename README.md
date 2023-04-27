@@ -7,8 +7,8 @@
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4d4d4d?style=flat&logo=javascript)<br/>
-- [Longest Work Slot <sup>HackerRank</sup>](https://github.com/DianaCCM)
-- [Closest to Zero <sup>CoderPad</sup>](https://github.com/DianaCCM)
+- [Longest Work Slot <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/LongestWorkSlot)
+- [Closest to Zero <sup>CoderPad</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/ClosestToZero)
 
 <br/>
 
