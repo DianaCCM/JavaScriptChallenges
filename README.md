@@ -8,15 +8,13 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4d4d4d?style=flat&logo=javascript)<br/>
 - [Longest Work Slot <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/LongestWorkSlot)
-- [Champions League Teams <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/ChampionsLeagueTeams)
-- [Country Codes <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/CountryCodes)
 - [Closest to Zero <sup>CoderPad</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/ClosestToZero)
 
 <br/>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-4d4d4d?style=flat&logo=Node.js) 
-- [Country Codes](https://github.com/DianaCCM)
-- [Champions League Teams](https://github.com/DianaCCM)
+- [Champions League Teams <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/ChampionsLeagueTeams)
+- [Country Codes <sup>HackerRank</sup>](https://github.com/DianaCCM/JavaScriptChallenges/tree/main/CountryCodes)
 
 <br/>
 
